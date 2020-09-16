@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favorite food:
+  1. Fried Rice :+1:
+      * Super Spicy
+      * Extra salted fish
+  2. Noodle :heart:
+      * Ramen
+      * Pho
